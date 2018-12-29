@@ -1,6 +1,6 @@
 # NativeScript-Sidekick-Arch
 
-NativeScript-Sidekick-Arch is unofficial package re-build for package installer on archlinux and archbase distro.
+NativeScript-Sidekick-Arch is unofficial package and re-build for package installer on archlinux and archbase distro.
 
 
 How to install?
