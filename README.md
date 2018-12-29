@@ -18,4 +18,12 @@ How to Uninstall?
 
     sudo pacman -R nativescriptsidekick
 
+
+Alternative downloads file from Google Drive  
+Google repo : https://drive.google.com/open?id=1xPCdmKxFOCXZHqEl71px_xPn4bl_RLC1
+ 
+ 
+ 
+ 
+ 
 NativeScript is licensed under the Apache 2.0 license by Official website : https://www.nativescript.org/
