@@ -14,4 +14,8 @@ How to install?
 3. Done!
 
 
+How to Uninstall?
+
+    sudo pacman -R nativescriptsidekick
+
 NativeScript is licensed under the Apache 2.0 license by Official website : https://www.nativescript.org/
